@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-stylestest/static/css/main.9f7ff1ea.css",
+    "main.js": "/react-stylestest/static/js/main.410bf056.js",
+    "static/media/background.jpg": "/react-stylestest/static/media/background.afb459c4c4c6c0f3c342.jpg",
+    "index.html": "/react-stylestest/index.html",
+    "main.9f7ff1ea.css.map": "/react-stylestest/static/css/main.9f7ff1ea.css.map",
+    "main.410bf056.js.map": "/react-stylestest/static/js/main.410bf056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7ff1ea.css",
+    "static/js/main.410bf056.js"
+  ]
+}
